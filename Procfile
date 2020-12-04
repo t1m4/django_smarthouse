@@ -1,0 +1,1 @@
+web: gunicorn django_smarthouse_heroku.wsgi --log-file -
