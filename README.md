@@ -1,4 +1,5 @@
-Deploying django project Heroku;
+My project on course <b>Python Creation Web application on Django</b>
+Deploying django project Heroku:
 Inctruction:
 1. Add file requirements.txt with library
 2. Add file Procfile
