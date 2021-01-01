@@ -13,3 +13,6 @@ and <pre>django_heroku.settings(locals())</pre>
 <pre>git init</pre>
 <pre>heroku git:remote -a appname</pre>
 <pre>git push heroku master</pre>
+
+<a href="https://telegra.ph/Web-Application-for-Smart-House-Management-11-23">Here</a>you can find full description and project's purpose.
+And here you can find our <a href="https://djangosmarthouse.herokuapp.com/">project</a> 
